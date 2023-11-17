@@ -64,7 +64,7 @@ Siendo `32 valores outliers`, y según el total de registros nos arrojan un porc
 
 ### Resumen:
 
-Se explora detalladamente los datos de los datasets: **`Penetracion_internet.csv`** y **`Telefonia_Fija.csv`**, para elijir cada uno de los KPIs. Éstos, permiten mostrar una síntesis de la información producto del análisis, que clarifican la presentación de los datos.
+Se explora detalladamente los datos de los datasets: **`Penetracion_internet.csv`** y **`Telefonia_Fija.csv`**, para elegir cada uno de los KPIs. Éstos, permiten mostrar una síntesis de la información producto del análisis, que clarifican la presentación de los datos.
 Aspectos inherentes a la visualización, se resaltan para conseguir la coherencia de los gráficos según las variables a mostrar. 
 Mientras el primer KPI, se propone aumentar en un 2% el acceso al servicio a internet para el próximo trimestre por cada 100 hogares y por provincia. Atendiendo a los cálculos pertinentes, se hicieron los respectivos ajustes a las columnas aludidas para poder revelar las tendencias en ese sentido. Desarollando la misma operación para el segundo KPI en el campo de la telefonía fija que permita entregar el producto calculado y poder atender todas las instancias propuestas.
     
