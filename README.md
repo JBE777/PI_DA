@@ -64,21 +64,9 @@ Siendo `32 valores outliers`, y según el total de registros nos arrojan un porc
 
 ### Dashboard:
 
-Explorando detalladamente los datos, de los datasets **`Penetracion_internet.csv`** y **`Telefonia_Fija.csv`**, se elijen cada uno de los KPIs.
-Éstos, permiten mostrar una síntesis de la información producto del análisis, que clarifican la presentación de los datos.
+Explorando detalladamente los datos de los datasets: **`Penetracion_internet.csv`** y **`Telefonia_Fija.csv`**, se elijen cada uno de los KPIs. Éstos, permiten mostrar una síntesis de la información producto del análisis, que clarifican la presentación de los datos.
 Aspectos inherentes a la visualización, se resaltan para conseguir la coherencia de los gráficos según las variables a mostrar. 
-Mientras el primer KPI propone aumentar en un 2% el acceso al servicio de internet para el próximo trimestre por cada 100 hogares por provincia.
-Atendiendo a la siguiente fórmula, renombre la respectiva columna: 
-1. **`KPI = ((Nuevoacceso - Accesoactual)/Accesoactual) * 100`**, donde:
-* `Nuevo acceso`: se refiere al número de hogares con acceso a internet después del próximo trimestre.
-* `Acceso actual`: se refiere al número de hogares con acceso a internet en el trimestre actual.
-
-Para el segundo KPI propone aumentar en un 2% el acceso al servicio de telefonia fija para el próximo trimestre por cada 100 hogares por provincia.
-Atendiendo a la siguiente fórmula, renombre la respectiva columna: 
-
-2. **`KPI = ((NuevoaccesoTel - AccesoactualTel)/AccesoactualTel) * 100`**, donde:
-* `Nuevo accesoTel`: se refiere al número de hogares con acceso a telefonía fija después del próximo trimestre.
-* `Acceso actualTel`: se refiere al número de hogares con acceso a telefonia fija en el trimestre actual.
+Mientras el primer KPI, se propone aumentar en un 2% el acceso al servicio a internet para el próximo trimestre por cada 100 hogares y por provincia. Atendiendo a los cálculos pertinentes, se hicieron los respectivos ajustes a las columnas aludidas para poder revelar las tendencias en ese sentido.
     
 ### Link GitHub:
 https://github.com/JBE777/PI_DA
