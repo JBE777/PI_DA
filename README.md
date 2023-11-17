@@ -60,7 +60,7 @@ En este análisis sobresale la provincia de *`Capital Federal`*, seguida por *`B
 > La mayor cobertura de `acceso a internet` recae en las provincias de `Capital Federal` y `La Pampa` con el primero y segundo lugar respectivamente.
 Con `36 valores outliers`, que basado en el `total de registros de 792` nos arrojan un porcentaje de `4.55 %` para cubrir los años desde `2014 hasta 2022`. En el segmento de `fibra óptica` está muy `parejo en lo que respecta a las provincias`, con `88 valores outliers` que basados en la cantidad de registros nos
 resultan en un porcentaje de `11.11 %` fincado solamente en el `año 2019`. Siendo las `medianas idénticas` en todas las `provincias` en sus respectivos `trimestres`. La cobertura de `acceso a la telefonía fija` se ve beneficiada en primer lugar por la provincia de `Capital Federal` y en segundo lugar `Buenos Aires`.
-Siendo `32 valores outliers`, y según el total de registros nos arrojan un porcentaje de `4.04 %` fluctuando entre los años `2014 al 2022`. Para ser constatado por la nube de palabras, en todo el contexto de las provincias, resaltan `Capital Federal` y `Buenos Aires`.
+Siendo `32 valores outliers`, y según el total de registros nos arrojan un porcentaje de `4.04 %` fluctuando entre los años `2014 al 2022`. En ninguno de los casos, se eliminaron los `outliers` porque se consideran importantes para este estudio y la interaccion con los datos en general. Mientras se puede constatar por la nube de palabras, que las provincias mas importantes, a resaltar son: `Capital Federal` y `Buenos Aires`.
 
 ### Resumen:
 
